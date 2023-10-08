@@ -8,7 +8,7 @@ from .gcn.gcn_model import GCN
 from .gcn.Adj import adj, ADJ
 from .aline import aline_seq
 
-class BDTFModel(BertPreTrainedModel):
+class DTFModel(BertPreTrainedModel):
     def __init__(self, config):
         super().__init__(config)
 
