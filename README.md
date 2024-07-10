@@ -3,7 +3,7 @@
 ## Introduction
 ASTE extracts target terms, opinion terms, and their sentiment polarity from reviews. Current models focus on enhancing table relation representation but lose multi-granular knowledge. The Dual-Table Filling (DTF) model addresses this by using two complementary tables: one for high-level abstract knowledge and one for fine-grained contextual knowledge. The Syntactic Enhanced Encoder (SEE) improves syntactic knowledge, boosting DTF's performance.
 
-![Task Example](images/example.jpg)
+![Task Example](src/task.png)
 
 
 ### Experimentual Results
