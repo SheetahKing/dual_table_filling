@@ -1,2 +1,0 @@
-def adj():
-    return None
